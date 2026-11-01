@@ -1,7 +1,5 @@
 import cv2
-
 cap = cv2.VideoCapture(0)
-
 while True:
     ret, frame = cap.read()
     cv2.rectangle(frame, (50, 50), (200, 400), (0, 255, 0), 15)
