@@ -24,6 +24,14 @@ The main application uses a pretrained YOLO26 model to detect and track objects 
 - **OpenCV** — Video capture and image processing
 - **Ultralytics YOLO26** — Object detection and tracking
 
+
+## Demo
+
+The application detects and tracks objects in real time using a webcam.
+
+![YOLO26 Object Tracking Demo](demo.png)
+
+
 ## Installation
 
 Clone the repository:
