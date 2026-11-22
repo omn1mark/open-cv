@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Environment variables
+.env
+
+# YOLO model weights and exports
+*.pt
+*.onnx
+
+# Ultralytics generated outputs
+runs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
