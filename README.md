@@ -23,7 +23,6 @@ The main application uses a pretrained YOLO26 model to detect and track objects 
 - **Python** — Main programming language
 - **OpenCV** — Video capture and image processing
 - **Ultralytics YOLO26** — Object detection and tracking
-- **NumPy** — Numerical operations used by the computer vision libraries
 
 ## Installation
 
