@@ -52,7 +52,7 @@ python -m pip install -r requirements.txt
 Run the main object tracking application:
 
 ```bash
-python "final project.py"
+python "object_tracker.py"
 ```
 
 Allow access to your webcam if prompted.
